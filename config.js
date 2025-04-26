@@ -18,4 +18,5 @@ const getBaseUrl = () => {
   }
 };
 
+
 export const API_URL = getBaseUrl();
